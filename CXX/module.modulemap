@@ -1,0 +1,12 @@
+//
+//  module.modulemap
+//  CXX
+//
+//  Created by Etienne Vautherin on 22/02/2024.
+//
+
+module CXX {
+    header "CXX.h"
+
+    export *
+}
